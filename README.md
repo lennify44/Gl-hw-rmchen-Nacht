@@ -13,6 +13,7 @@ Einfach `index.html` im Browser öffnen – keine Installation, keine Abhängigk
 - **Echte Mondphase** des heutigen Tages am Himmel (mit kleinem Spielbonus bei Voll- und Neumond)
 - 27 Erfolge, 8 Glas-Designs, lokale Bestenliste, Aufträge
 - Deutsch und Englisch umschaltbar
+- Auf dem Handy installierbar („Zum Startbildschirm hinzufügen“) und nach dem ersten Besuch auch offline spielbar (über GitHub Pages bzw. HTTPS)
 
 ## Steuerung
 
